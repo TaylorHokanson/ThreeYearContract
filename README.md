@@ -16,9 +16,9 @@ TYC is comprised of two identical interactive objects. These objects
 appear to be plain wooden blocks with the basic proportions of an
 oversized smartphone. Each unit is placed in the center of a small
 carpet that sits on the ground, and these carpets are installed in two
-separate public areas around Linz. The work is battery operated, so the
+separate public areas. The work is battery operated, so the
 location of these installations is quite flexible and could even change
-over the duration of the show.
+over the duration of an exhibition.
 
 When an audience member kneels on a carpet and places their forehead
 against a block, they activate the unit and cause it to make a call to
