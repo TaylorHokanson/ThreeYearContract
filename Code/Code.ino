@@ -1,3 +1,5 @@
+// WIP: this code is not finalized
+
 // when called, GPRS picks up right after the first ring is reported
 // serial mirroring is preserved for debug
 // that was certainly faster than last time ;)
