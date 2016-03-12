@@ -1,8 +1,10 @@
-# ThreeYearContract
+### ThreeYearContract
 An interactive artwork featuring
 [defamiliarized](http://www.blackwellreference.com/public/tocnode?id=g9781405183123_chunk_g97814051831236_ss1-1) cellphones.
 
-# Project Description
+![alt text](https://github.com/TaylorHokanson/ThreeYearContract/tree/master/images/three.jpg "ThreeYearContract")
+
+### Project Description
 Every once in a while, a new technology (e.g. the Polio vaccine) makes
 the world a better place without demanding some sort of major trade-off.
 More often, however, our advancements require that society shift to
